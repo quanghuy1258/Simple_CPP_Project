@@ -1,4 +1,4 @@
-# Simple_CPP_Project
+# Simple C++ Project
 Template for a simple C++ project
 
 ## How to build:
